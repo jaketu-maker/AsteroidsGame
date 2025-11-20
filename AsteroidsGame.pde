@@ -8,7 +8,7 @@ public void setup() {
     sky[i] = new Stars();
   }
   l = new Spaceship();
-  for(int i = 0; i < 200;i++){
+  for(int i = 0; i < 6;i++){
     a.add(new Asteroid());
   }
 }
